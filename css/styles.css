@@ -1,6 +1,98 @@
 .container-fluid{
 	background-color: tomato;
 }
-.container{
+#main_container {
+	padding-top: 10px;
+	max-width: 95%;
 	background-color: aqua;
+}
+.container {
+	
+}
+header {
+
+}
+#header1{
+	background-color: gray;
+}
+a { 
+	text-align: center;
+	color: black;
+	list-style: none;
+	text-decoration: none;
+	outline-style: none;
+}
+#top_links {
+
+
+	padding: 10px;
+	padding-right: 10px;
+	padding-right: 10px;
+}
+#page_name {
+
+}
+.btn {
+	background-color: #cdcdcd;
+
+}
+#nav_item {
+	background-color: pink;
+}
+.nav_pills {
+	background-color: pink;
+}
+#navbar {
+
+	margin-top: 10px;
+}
+
+hr {
+
+	height: 1px;
+	background-color: black;
+}
+#slides_row {
+
+	 	padding-top: 10px;
+
+}
+#link_to_more {
+}
+#aside {
+
+	margin-left: 10px;
+	margin-right: -20px;
+	background-color: green;
+}
+aside {
+	background-color: gray;
+}
+.aside_link {
+	display: inline-block;
+}
+#slides_row {
+	max-height: 20%;
+}
+img {
+
+}
+.page-number {
+
+	position: center;
+	padding: 10px;
+	border-radius: 100px 100px;
+	border-color: none;
+	background-color: black;
+	color: white;
+	padding-right: 40px;
+	padding-left: 40px;
+	top: 45%;
+	right: 45%;
+	display: block;
+	background-color: white;
+}
+#pages {
+	color: white;
+
 }
